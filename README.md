@@ -3,7 +3,7 @@
 <h3 align="center">A VA | VM | SIEM | PT Specialist From Bharat</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.ehcgroup.io/wp-content/uploads/2021/07/ransomware.gif">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1026227/screenshots/2417386/hacker_final.gif">
-
+<img align="right" alt="Coding" width="400" <script src="https://tryhackme.com/badge/2065293"></script>
 
 - 💬 Ask me about **SIEM ,Soc ,ThreatHunting,Penetration Testing,Wireless Penetration Testing , Infrastructure Security.**
 
